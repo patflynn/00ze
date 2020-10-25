@@ -1,0 +1,12 @@
+<html>
+  <head>
+    img {
+  margin: auto;
+  display: block;
+}
+    <title>00ze</title>
+  </head>
+  <body>
+    <img src="/images/00ze.gif"/>
+  </body>
+</html>
